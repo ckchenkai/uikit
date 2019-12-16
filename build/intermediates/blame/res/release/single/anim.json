@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\a7a34a161f94637af9e234e92db3c9c9\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\a7a34a161f94637af9e234e92db3c9c9\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\a7a34a161f94637af9e234e92db3c9c9\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\a7a34a161f94637af9e234e92db3c9c9\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v22\\values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\values-v22\\values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\7bdbc84e5d552721f65e18c06b67f10a\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}

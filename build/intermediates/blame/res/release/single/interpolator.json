@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\interpolator\\mtrl_linear.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\a7a34a161f94637af9e234e92db3c9c9\\res\\interpolator\\mtrl_linear.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\interpolator\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\a7a34a161f94637af9e234e92db3c9c9\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\interpolator\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\a7a34a161f94637af9e234e92db3c9c9\\res\\interpolator\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\worksapce_demo\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\interpolator\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\my910\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\a7a34a161f94637af9e234e92db3c9c9\\res\\interpolator\\mtrl_fast_out_slow_in.xml"
+    }
+]
